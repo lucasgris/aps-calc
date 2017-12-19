@@ -1,0 +1,13 @@
+Resolução de P.V.I pelo método de Runge Kutta de quarta ordem
+Valor inicial: y(0) = 20
+Tamanho do passo: 2.0
+Resolução:
+y(0) = 20
+y(2.0) = 19.8997485317
+y(4.0) = 19.595917044
+y(6.0) = 19.0787817434
+y(8.0) = 18.3302978644
+y(10.0) = 17.3204979319
+y(12.0) = 15.9999781927
+y(14.0) = 14.2828033184
+y(16.0) = 11.9998242097
